@@ -1,0 +1,4 @@
+discord.py
+python-dotenv
+requests
+#yung procfile para lang yan sa railway para ma run mo kahit i kill mo yung terminal mo
